@@ -32,11 +32,11 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 60%;
+  width: 65%;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  gap: 10em 2em;
+  gap: 10em 5em;
 }
 .container > * {
   flex: 1;
